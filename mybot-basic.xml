@@ -1,0 +1,116 @@
+<aiml version="2.0">
+    <category>
+        <pattern>HELLO</pattern>
+        <template>Hello there! Welcome to the Wizarding World. How can I assist you today?</template>
+    </category>
+
+    <category>
+        <pattern>HELLO *</pattern>
+        <template>Hi there! What magical adventures are you embarking on today?</template>
+    </category>
+
+    <category>
+        <pattern>HELLO HOW ARE YOU</pattern>
+        <template>I'm doing magically well, thank you! How about you?</template>
+    </category>
+
+    <category>
+        <pattern>I AM FINE</pattern>
+        <template>That's splendid! Ready to delve into the secrets of the Wizarding World?</template>
+    </category>
+
+    <category>
+        <pattern>BYE</pattern>
+        <template>#0$</template>
+    </category>
+
+    <category>
+        <pattern>BYE THANKS</pattern>
+        <template>Farewell, and may your journey be filled with magic!</template>
+    </category>
+
+    <category>
+        <pattern>THANK YOU</pattern>
+        <template>Thanks a bunch! Always happy to help fellow wizards and witches.</template>
+    </category>
+
+    <category>
+        <pattern>CHEERS</pattern>
+        <template>So mote it be!</template>
+    </category>
+
+    <category>
+        <pattern>CHEERS *</pattern>
+        <template>Indeed! Let's raise our wands to that.</template>
+    </category>
+
+    <category>
+        <pattern>TEACH ME A SPELL</pattern>
+        <template>Wands at the ready! The incantation for a powerful spell is...</template>
+    </category>
+
+    <category>
+        <pattern>CAST A SPELL *</pattern>
+        <template>I summon the power of magic!</template>
+    </category>
+
+    <category>
+        <pattern>WHO IS THE GREATEST WIZARD OF ALL TIME</pattern>
+        <template>Ah, that's a question with much debate among wizards. But many would say it's Albus Dumbledore, the wisest and most powerful wizard of his time.</template>
+    </category>
+
+    <category>
+        <pattern>TELL ME A HARRY POTTER JOKE</pattern>
+        <template>Why did Professor Snape stand in the middle of the road? So you'll never know which side he's on!</template>
+    </category>
+
+    <category>
+        <pattern>DO YOU BELIEVE IN MAGIC</pattern>
+        <template>Of course! Magic is all around us, waiting to be discovered and embraced.</template>
+    </category>
+
+    <category>
+        <pattern>WHO IS YOUR FAVORITE HARRY POTTER CHARACTER</pattern>
+        <template>As an AI dedicated to the Wizarding World, I admire all the characters for their unique qualities and contributions to the magical realm.</template>
+    </category>
+
+    <category>
+        <pattern>WHAT HOUSE AM I IN</pattern>
+        <template>Let's find out! Answer this: Would you rather be known for bravery, intelligence, loyalty, or ambition?</template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS THE MEANING OF LIFE</pattern>
+        <template>That's a deep question, my friend. In the Wizarding World, the meaning of life is to embrace the magic within us and make the world a better place with our spells and actions.</template>
+    </category>
+
+    <category>
+        <pattern>TELL ME A HARRY POTTER QUOTE</pattern>
+        <template>"Happiness can be found even in the darkest of times if one only remembers to turn on the light." - Albus Dumbledore</template>
+    </category>
+
+    <category>
+        <pattern>TELL ME ABOUT HOGWARTS</pattern>
+        <template>Hogwarts School of Witchcraft and Wizardry is a magical boarding school located in Scotland. It's where young witches and wizards receive their magical education and train to become skilled wizards.</template>
+    </category>
+
+    <category>
+        <pattern>TELL ME ABOUT QUIDDITCH</pattern>
+        <template>Quidditch is a popular wizarding sport played on broomsticks. It involves four balls and seven players on each team, aiming to score points by throwing the Quaffle through hoops while also dodging Bludgers and catching the Golden Snitch.</template>
+    </category>
+
+    <category>
+        <pattern>WHO IS THE HALF-BLOOD PRINCE</pattern>
+        <template>The Half-Blood Prince is a mysterious character whose identity is revealed in the sixth Harry Potter book, "Harry Potter and the Half-Blood Prince." I won't spoil the surprise for you!</template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS THE UNFORGIVABLE CURSE</pattern>
+        <template>The Unforgivable Curses are three of the darkest and most powerful spells in the wizarding world: the Imperius Curse, the Cruciatus Curse, and the Killing Curse (Avada Kedavra). Their use is strictly prohibited and punishable by law.</template>
+    </category>
+
+    <category>
+        <pattern>*</pattern>
+        <template></template>
+    </category>
+</aiml>
