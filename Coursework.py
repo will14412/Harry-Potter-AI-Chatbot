@@ -20,7 +20,7 @@ import tensorflow as tf
 ################################
 #       INITIAL LOADS
 ################################
-
+# test push
 # Load the previously saved model
 loaded_model = load_model('wand_casting_classifier_tuned.h5')
 
@@ -293,7 +293,7 @@ while True:
     else:
         qa_kb_cosine(user_input)
         
-        
+
         
         
         
